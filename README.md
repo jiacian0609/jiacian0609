@@ -17,7 +17,7 @@ I'm Jia-Cian (Nicole) Yang from Taiwan. I recently earned my master's degree fro
 -->
 
 ## 🛠️ Skills
-🗣️ Languages: 🇨🇳 Native Mandarin; 🇺🇸 English (TOEIC 930 / 990); 🇰🇷 Korean (TOPIK II Level 6)  
+🗣️ Languages: 🇹🇼 Native Mandarin; 🇺🇸 English (TOEIC 930 / 990); 🇰🇷 Korean (TOPIK II Level 6)  
 💻 Programming: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
