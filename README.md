@@ -42,8 +42,6 @@ I'm Jia-Cian (Nicole) Yang from Taiwan. I recently earned my master's degree fro
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## My GitHub Stats
-![Jia-Cian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiacian0609&show_icons=true&count_private=true)
 ![Jia-Cian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacian0609&layout=compact)
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=jiacian0609&color=brightgreen)
