@@ -41,6 +41,7 @@ I'm Jia-Cian (Nicole) Yang from Taiwan. I recently earned my master's degree fro
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=flat&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ![Jia-Cian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiacian0609&layout=compact)
 
