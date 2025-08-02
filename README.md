@@ -37,6 +37,7 @@ I'm Jia-Cian (Nicole) Yang from Taiwan. I recently earned my master's degree fro
 🧰 Tools / DevOps: 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=flat&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
